@@ -1,0 +1,43 @@
+ characteristics of Big data are:-
+ a).volume-Volume Refers to the vast amounts of data generated every second
+ b).Velocity-Velocity Refers to the speed at which new data is generated and the speed at which data moves around. 
+ c).variety-Variety Refers to the different types of data we can now use. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ The possible solutions to handle Big data are:-
+  a) Scale up-• Increase the configuration of a single system, like disk capacity, RAM, data transferspeed, etc.• 
+  Complex, costly, and a time consuming process
+  b).scale out-• Use multiple commodity (economical) machines and distribute the load ofstorage/processing among them
+  • Economical and quick to implement as it focuses on distribution of load
+  • Instead of having a single system with 10 TB of storage and 80 GB of RAM, use 40machines with 256 GB of storage and 2 GB of RAM
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  the differences between scaling up and scaling out.
+ a) Scale up-• Increase the configuration of a single system, like disk capacity, RAM, data transfer
+speed, etc.
+• Complex, costly, and a time consuming process
+b).scale out-• Use multiple commodity (economical) machines and distribute the load of
+storage/processing among them
+• Economical and quick to implement as it focuses on distribution of load
+• Instead of having a single system with 10 TB of storage and 80 GB of RAM, use 40
+machines with 256 GB of storage and 2 GB of RAM
